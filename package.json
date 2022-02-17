@@ -1,0 +1,21 @@
+{
+  "name": "demo-template",
+  "version": "1.0.0",
+  "private": "<%=private%>",
+  "autor":"<%=author%>",
+  "description": "<%=description%>",
+  "license": "<%=license%>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scaler-king/demo-temlate.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/scaler-king/demo-temlate/issues"
+  },
+  "homepage": "https://github.com/scaler-king/demo-temlate#readme"
+}
